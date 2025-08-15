@@ -1,0 +1,15 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#twond{
+    color: blue;
+    font-size: 36;
+}
+#threerd , #fourth{
+    font-size: 24px;
+}
+#fourth{
+    font: bold;
+    background-color: lightgreen;
+}

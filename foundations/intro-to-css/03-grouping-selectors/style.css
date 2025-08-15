@@ -1,0 +1,17 @@
+
+.Y_button, .N_button{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/*
+Yes and No button 
+*/
+
+.Y_button {
+    background-color: black;
+    color: white;
+}
+.N_button {
+    background-color: yellow;
+}

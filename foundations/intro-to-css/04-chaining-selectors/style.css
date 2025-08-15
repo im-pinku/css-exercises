@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+/*
+`avatar` and `proportioned` classes 300 pixels wide
+ then give it a height so that it retains its original square proportions
+*/
+
+.avatar.proportioned {
+    height: 300px;
+    width: 300px;
+}
+/*
+a d 200 400
+*/
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
